@@ -9,7 +9,7 @@ Changed Save path(Absolute path -> Relative path), Point's color and size, littl
 Added Error point option
 
 # Example
- Example
+ Example  
  ![image1](https://user-images.githubusercontent.com/56443524/106253251-987f7280-625a-11eb-84f5-dc859b347369.png)  
  
  Error code  
