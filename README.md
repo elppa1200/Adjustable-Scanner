@@ -1,6 +1,6 @@
 # Adjustable-Scanner
 Perspective Transform Practice / Upgraded Perspective Transform repository  
-This is for practice
+This is for conputer vision practice
 
 # Base Code  
 https://github.com/kairess/perspective_transform
